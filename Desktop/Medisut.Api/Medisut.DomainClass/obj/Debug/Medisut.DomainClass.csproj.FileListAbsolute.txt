@@ -1,0 +1,4 @@
+C:\Users\IT\Desktop\Medisut.Api\Medisut.DomainClass\bin\Debug\Medisut.DomainClass.dll
+C:\Users\IT\Desktop\Medisut.Api\Medisut.DomainClass\bin\Debug\Medisut.DomainClass.pdb
+C:\Users\IT\Desktop\Medisut.Api\Medisut.DomainClass\obj\Debug\Medisut.DomainClass.dll
+C:\Users\IT\Desktop\Medisut.Api\Medisut.DomainClass\obj\Debug\Medisut.DomainClass.pdb
